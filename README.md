@@ -7,9 +7,13 @@ Olá! Eu sou Glória Andrade, estudante de Ciência da Computação na Anhembi M
 O projeto é uma simulação de uma livraria online, onde o usuário pode:
 
 🆕 Criar um cadastro e gerenciar seu perfil.
+
 🔑 Realizar login e logout na plataforma.
+
 🛒 Navegar pelos produtos disponíveis.
+
 💳 Adicionar itens ao carrinho e efetuar pagamentos.
+
 O sistema foi desenvolvido utilizando Spring Boot para a criação da API, com armazenamento de dados em um banco de dados MySQL (MySQL Workbench).
 
 💡 Apesar de ser um projeto em grupo com Gabriel Welzel, ele não contribuiu de forma significativa para o desenvolvimento.
