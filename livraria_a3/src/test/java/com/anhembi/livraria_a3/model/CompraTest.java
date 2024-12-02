@@ -64,7 +64,7 @@ public class CompraTest {
 
     @Test
     void testCompraWithoutUsuario() {
-        // Testando se a compra pode ser criada sem usuário
+        // Testando se a compra pode ser criada sem usuário pq vai que
         compra.setUsuario(null);
         compra.setEmail("semusuario@exemplo.com");
         compra.setEndereco("Av. Sem Rua");
