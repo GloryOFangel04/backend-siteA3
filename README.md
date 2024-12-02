@@ -1,6 +1,8 @@
 📚 README - Projeto Final A3 - Livraria Online
+
 📝 Sobre o Projeto
-Olá! Eu sou Glória S. B. Andrade, estudante de Ciência da Computação na Anhembi Morumbi Paulista 1. Este projeto é meu trabalho final da avaliação A3 do semestre.
+Olá! Eu sou Glória Andrade, estudante de Ciência da Computação na Anhembi Morumbi Paulista 1. Este projeto é meu trabalho final da avaliação A3 do semestre.
+
 
 O projeto é uma simulação de uma livraria online, onde o usuário pode:
 
