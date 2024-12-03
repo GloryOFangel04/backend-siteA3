@@ -16,7 +16,7 @@ O projeto é uma simulação de uma livraria online, onde o usuário pode:
 
 O sistema foi desenvolvido utilizando Spring Boot para a criação da API, com armazenamento de dados em um banco de dados MySQL (MySQL Workbench).
 
-💡 Apesar de ser um projeto em grupo com Gabriel Welzel, ele não contribuiu de forma significativa para o desenvolvimento.
+💡 Meu projeto em grupo foi desenvolvido junto com o gabriel welzel
 
 ⚙️ Funcionalidades
 O sistema possui as seguintes páginas e funcionalidades:
